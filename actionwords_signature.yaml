@@ -1,0 +1,37 @@
+---
+- name: step to launch the application in browser
+  uid: 3bf703eb-3735-425c-bd75-70e919b0f1df
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: I should see the app logo
+  uid: 49ef103f-3162-481f-92de-e50013f82455
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'I select the Login button '
+  uid: 1fd08fc1-3d2f-4426-b1a1-dc97c94d5a46
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'Enter BT ID page should be displayed '
+  uid: '00883bc1-cd71-4902-ab02-6861595a5533'
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'Launch the application '
+  uid: c7237e7f-30b8-45ee-bf6c-a64579efca28
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'Now i could see the home page '
+  uid: 8cf1e06f-a46b-4442-ae41-0d66f4198fb8
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'I select the channel packshot '
+  uid: 870cfb53-3760-44eb-9893-bba1383bef12
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'I should see the Login Page '
+  uid: fcdce79d-1a40-482c-80d5-755708e1452d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: 'I select the Login Option '
+  uid: 967603d9-4ea6-4df3-a39b-c4b2248b88ae
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
